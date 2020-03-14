@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/oraclexe/app/oracle/product/11.2.0/server/jdbc/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="F:/Softwares/DataBase/DB_S_W/MySQL/Driver/mysql-connector-java-8.0.18.jar"/>
+	<classpathentry kind="lib" path="F:/Softwares/DataBase/DB_S_W/postgreSQL/Driver/postgresql-42.2.9.jar"/>
+	<classpathentry kind="lib" path="F:/Softwares/JAVA/DriverSW/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="F:/Softwares/DataBase/Non-Conventional Driver SW/Excel/Excel_JDBC42.jar"/>
+	<classpathentry kind="lib" path="F:/Softwares/DataBase/Non-Conventional Driver SW/Text/Text_JDBC42.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
